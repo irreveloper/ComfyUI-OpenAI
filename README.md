@@ -47,7 +47,7 @@ This node uses OpenAI's vision models for image captioning. It lets you choose:
 - **system_prompt**: Customize the system prompt to guide the AI's behavior
 - **caption_prompt**: Specify a captioning prompt to focus the AI's description
 - **max_tokens** and **temperature**: Fine-tune the output length and creativity
-- **custom_response_format** customizable response_format schema
+- **custom_response_format**: customizable response_format schema
 - **api_key**: Input your OpenAI API key for authentication
 
 These parameters allow you to customize the captioning process to suit your specific needs and preferences. You can adjust the model selection, prompts, and generation settings to achieve the desired output for your image captioning tasks.
